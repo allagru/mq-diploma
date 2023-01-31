@@ -1363,27 +1363,3 @@ a {
         background-position: right 17px center;
     }
 }
-
-@media (max-width: 1199px) and (min-width: 641px) and (orientation: landscape) {
-    .popular-item {
-        width: 24.8%;
-    }
-}
-
-@media (max-width: 1199px) and (min-width: 641px) and (orientation: portrait) {
-    .popular-item {
-        width: 49.8%;
-    }
-}
-
-@media (max-width: 640px) and (orientation: landscape) {
-    .popular-item {
-        width: 49.8%;
-    }
-}
-
-@media (max-width: 640px) and (orientation: portrait) {
-    .popular-item {
-        width: 100%;
-    }
-}
